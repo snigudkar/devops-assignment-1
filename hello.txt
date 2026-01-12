@@ -1,1 +1,2 @@
 Hi!! This is a trial file added for DevOps assignment 1
+This new line was added in the newly created branch
